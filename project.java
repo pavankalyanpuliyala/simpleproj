@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SimpleCalculator {
+public class project {
     public static void main(String[] args) {
         // Create a scanner object for input
         Scanner scanner = new Scanner(System.in);
